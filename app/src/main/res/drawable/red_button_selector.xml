@@ -1,0 +1,10 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/red_on" android:state_pressed="true" />
+    <item android:drawable="@color/red_on" android:state_checked="true" />
+    <item android:drawable="@color/red_off" />
+    <item>
+        <shape>
+            <solid android:color="@color/red_on"></solid>
+        </shape>
+    </item>
+</selector>
