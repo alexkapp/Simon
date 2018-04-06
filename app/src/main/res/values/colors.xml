@@ -5,10 +5,11 @@
     <color name="colorAccent">#FF4081</color>
     <color name="red_on">#ff0000</color>
     <color name="red_off">#630000</color>#630000
-    <color name="blue_on">#0000ff</color>
-    <color name="blue_off">#0000a0</color>
-    <color name="green_on">#ff00ff00</color>
-    <color name="green_off">#00ab00</color>
-    <color name="yellow_on">#ffffff00</color>
-    <color name="yellow_off">#9a9a00</color>
+    <color name="blue_on">#0055ff</color>
+    <color name="blue_off">#010140</color>
+    <color name="green_on">#00ff00</color>
+    <color name="green_off">#017001</color>
+    <color name="yellow_on">#ffff00</color>
+    <color name="yellow_off">#787800</color>
+
 </resources>
